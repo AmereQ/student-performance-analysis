@@ -4,7 +4,6 @@ A complete data science pipeline project to explore and predict student exam out
 The dataset is sourced from the UCI Machine Learning Repository and includes demographic and behavioral data.
 
 > **Project Status:** In development 🚧  
-> *Started: April 2025*
 
 ---
 
